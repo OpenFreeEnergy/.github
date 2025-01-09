@@ -33,23 +33,13 @@ choderalab/openmmtools:
   - CI.yml
 
 # include feedstocks here?
-conda-forge/openfe-feedstock:
-  - None
-conda-forge/alchemiscale-feedstock:
-  - None
-conda-forge/cinnabar-feedstock:
-  - None
-conda-forge/feflow-feedstock:
-  - None
-conda-forge/gufe-feedstock:
-  - None
-conda-forge/kartograf-feedstock:
-  - None
-conda-forge/konnektor-feedstock:
-  - None
-conda-forge/lomap2-feedstock:
-  - None
-conda-forge/openfe-analysis-feedstock:
-  - None
-conda-forge/openmmtools-feedstock:
-  - None
+conda-forge/openfe-feedstock: []
+conda-forge/alchemiscale-feedstock: []
+conda-forge/cinnabar-feedstock: []
+conda-forge/feflow-feedstock: []
+conda-forge/gufe-feedstock: []
+conda-forge/kartograf-feedstock: []
+conda-forge/konnektor-feedstock: []
+conda-forge/lomap2-feedstock: []
+conda-forge/openfe-analysis-feedstock: []
+conda-forge/openmmtools-feedstock: []
