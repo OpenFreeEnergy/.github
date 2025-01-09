@@ -1,0 +1,55 @@
+OpenFreeEnergy/openfe:
+  - ci.yaml
+OpenFreeEnergy/alchemiscale:
+  - ci-integration.yml
+OpenFreeEnergy/alchemiscale-fah:
+  - ci-integration.yml
+OpenFreeEnergy/cinnabar:
+  - ci.yml
+OpenFreeEnergy/alchemiscale-fah:
+  - ci-integration.yml
+OpenFreeEnergy/ExampleNotebooks:
+  - CI.yml
+OpenFreeEnergy/exorcist:
+  - ci.yaml
+OpenFreeEnergy/feflow:
+  - ci.yaml
+  - rc-test.yaml
+OpenFreeEnergy/gufe:
+  - ci.yaml
+OpenFreeEnergy/kartograf:
+  - ci.yaml
+OpenFreeEnergy/konnektor:
+  - ci.yaml
+OpenFreeEnergy/Lomap:
+  - CI.yaml
+OpenFreeEnergy/ofe-sphinx-theme:
+  - CI.yaml
+OpenFreeEnergy/openfe_analysis:
+  - ci.yaml
+OpenFreeEnergy/openfe-gromacs:
+  - CI.yaml
+choderalab/openmmtools:
+  - CI.yml
+
+# include feedstocks here?
+conda-forge/openfe-feedstock:
+  - None
+conda-forge/alchemiscale-feedstock:
+  - None
+conda-forge/cinnabar-feedstock:
+  - None
+conda-forge/feflow-feedstock:
+  - None
+conda-forge/gufe-feedstock:
+  - None
+conda-forge/kartograf-feedstock:
+  - None
+conda-forge/konnektor-feedstock:
+  - None
+conda-forge/lomap2-feedstock:
+  - None
+conda-forge/openfe-analysis-feedstock:
+  - None
+conda-forge/openmmtools-feedstock:
+  - None
