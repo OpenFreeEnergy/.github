@@ -34,7 +34,7 @@ OpenFreeEnergy/stratocaster:
 choderalab/openmmtools:
   - CI.yml
 
-# include feedstocks here?
+
 conda-forge/openfe-feedstock: []
 conda-forge/alchemiscale-feedstock: []
 conda-forge/cinnabar-feedstock: []
