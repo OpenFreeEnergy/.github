@@ -6,8 +6,6 @@ OpenFreeEnergy/alchemiscale-fah:
   - ci-integration.yml
 OpenFreeEnergy/cinnabar:
   - ci.yml
-OpenFreeEnergy/alchemiscale-fah:
-  - ci-integration.yml
 OpenFreeEnergy/ExampleNotebooks:
   - CI.yml
 OpenFreeEnergy/exorcist:
@@ -29,6 +27,10 @@ OpenFreeEnergy/openfe_analysis:
   - ci.yaml
 OpenFreeEnergy/openfe-gromacs:
   - CI.yaml
+OpenFreeEnergy/pontibus:
+  - ci.yaml
+OpenFreeEnergy/stratocaster:
+  - tests.yaml
 choderalab/openmmtools:
   - CI.yml
 
