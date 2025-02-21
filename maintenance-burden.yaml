@@ -33,15 +33,3 @@ OpenFreeEnergy/stratocaster:
   - tests.yaml
 choderalab/openmmtools:
   - CI.yml
-
-
-conda-forge/openfe-feedstock: []
-conda-forge/alchemiscale-feedstock: []
-conda-forge/cinnabar-feedstock: []
-conda-forge/feflow-feedstock: []
-conda-forge/gufe-feedstock: []
-conda-forge/kartograf-feedstock: []
-conda-forge/konnektor-feedstock: []
-conda-forge/lomap2-feedstock: []
-conda-forge/openfe-analysis-feedstock: []
-conda-forge/openmmtools-feedstock: []
