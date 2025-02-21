@@ -1,0 +1,35 @@
+OpenFreeEnergy/openfe:
+  - ci.yaml
+OpenFreeEnergy/alchemiscale:
+  - ci-integration.yml
+OpenFreeEnergy/alchemiscale-fah:
+  - ci-integration.yml
+OpenFreeEnergy/cinnabar:
+  - ci.yml
+OpenFreeEnergy/ExampleNotebooks:
+  - CI.yml
+OpenFreeEnergy/exorcist:
+  - ci.yaml
+OpenFreeEnergy/feflow:
+  - ci.yaml
+  - rc-test.yaml
+OpenFreeEnergy/gufe:
+  - ci.yaml
+OpenFreeEnergy/kartograf:
+  - ci.yaml
+OpenFreeEnergy/konnektor:
+  - ci.yaml
+OpenFreeEnergy/Lomap:
+  - CI.yaml
+OpenFreeEnergy/ofe-sphinx-theme:
+  - CI.yaml
+OpenFreeEnergy/openfe_analysis:
+  - ci.yaml
+OpenFreeEnergy/openfe-gromacs:
+  - CI.yaml
+OpenFreeEnergy/pontibus:
+  - ci.yaml
+OpenFreeEnergy/stratocaster:
+  - tests.yaml
+choderalab/openmmtools:
+  - CI.yml
