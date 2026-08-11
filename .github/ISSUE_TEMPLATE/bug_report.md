@@ -26,3 +26,8 @@ Steps to reproduce the behavior (ideally a [minimally reproducible example](http
 
 **Additional context**
 <!-- Add any other context about the problem here. -->
+
+**AI disclosure**
+<!-- Please update this disclosure to reflect if you did or did not use LLMs / AI to generate code -->
+LLMs or other AI-powered tools (beyond simple IDE use cases) were used in this contribution: yes / no
+If yes, please provide details here:
