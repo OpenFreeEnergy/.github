@@ -28,6 +28,6 @@ Steps to reproduce the behavior (ideally a [minimally reproducible example](http
 <!-- Add any other context about the problem here. -->
 
 **AI disclosure**
-<!-- Please update this disclosure to reflect if you did or did not use LLMs / AI to generate code -->
-LLMs or other AI-powered tools (beyond simple IDE use cases) were used in this contribution: yes / no
+<!-- Please update this disclosure to reflect if you did or did not use LLMs / AI to generate text or code in this issue -->
+LLMs or other AI-powered tools were used in creating this issue: yes / no
 If yes, please provide details here:
