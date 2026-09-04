@@ -2,6 +2,11 @@
 
 https://openfree.energy/
 
+**September 2026** Please take our [survey](https://docs.google.com/forms/d/e/1FAIpQLScw-vxBzlzFQT_6JHO64tgRuvzN4hmkPYjkXoJKQEsiA2anFw/viewform) about how we can improve our documentation! 
+
+We are working to empower users to get started faster and accomplish more with our software. We need your feedback to help us prioritize which of these improvements would make the greatest impact to the largest number of our users.
+
+This survey is in three parts. Parts 2 (Installation) and 3 (LLMs) may not be relevant to all users. Completing all three sections should take no more than 15 minutes of your time. All questions are optional.
 <!--
 
 **Here are some ideas to get you started:**
